@@ -1,9 +1,8 @@
 {
-  "name": "VideoClipper",
+  "name": "electron-vue3-template",
   "private": true,
   "engines": {
-    "node": ">=v14.16",
-    "npm": ">=7.7"
+    "node": ">=v14.16"
   },
   "main": "packages/main/dist/index.cjs",
   "scripts": {
